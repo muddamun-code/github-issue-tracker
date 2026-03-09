@@ -34,3 +34,10 @@ Arrow function is a shorter way to write functions in JavaScript.
 Example:
 
 let add=(a,b)=>a+b
+
+
+5. Template literals
+
+ans:
+
+Template literals allow us to write strings using backticks and insert variables easily.
