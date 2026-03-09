@@ -15,3 +15,11 @@ Example:
 
 let arr1=[1,2]
 let arr2=[...arr1,3,4]
+
+
+3. map(), filter(), forEach()
+
+ans :
+map() is used to create a new array by transforming each element.
+filter() is used to return elements that match a condition.
+forEach() is used to loop through an array but it does not return a new array.
