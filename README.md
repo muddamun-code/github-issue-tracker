@@ -8,6 +8,7 @@ const is used when we do not want to change the value of the variable. Once assi
 
 2. Spread operator (...)
 
+ans :
 The spread operator is used to expand elements from an array or object. It helps copy or merge data easily.
 
 Example:
