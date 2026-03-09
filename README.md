@@ -23,3 +23,14 @@ ans :
 map() is used to create a new array by transforming each element.
 filter() is used to return elements that match a condition.
 forEach() is used to loop through an array but it does not return a new array.
+
+
+4. Arrow function
+
+ans:
+
+Arrow function is a shorter way to write functions in JavaScript.
+
+Example:
+
+let add=(a,b)=>a+b
