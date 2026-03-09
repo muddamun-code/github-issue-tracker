@@ -41,3 +41,7 @@ let add=(a,b)=>a+b
 ans:
 
 Template literals allow us to write strings using backticks and insert variables easily.
+Example:
+
+let name="John"
+console.log(`Hello ${name}`)
