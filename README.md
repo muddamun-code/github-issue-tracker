@@ -12,3 +12,5 @@ The spread operator is used to expand elements from an array or object. It helps
 
 Example:
 
+let arr1=[1,2]
+let arr2=[...arr1,3,4]
